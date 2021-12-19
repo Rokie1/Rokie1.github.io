@@ -1,7 +1,7 @@
 body {
     margin: 0;
-    background-color: #1d1d1e;
-    font-family: "Calibri";
+    background-color: #000000;
+    font-family: "Calibri", sans-serif;
 }
 * {
     outline: none;
